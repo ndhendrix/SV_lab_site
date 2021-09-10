@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lelisa Fekadu | Verguet Lab at Harvard</title>
+    <link>/author/lelisa-fekadu/</link>
+      <atom:link href="/author/lelisa-fekadu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lelisa Fekadu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Lelisa Fekadu</title>
+      <link>/author/lelisa-fekadu/</link>
+    </image>
+    
+    <item>
+      <title>Spatial distribution and characteristics of HIV clusters in Ethiopia</title>
+      <link>/publication/2019_ying_hiv/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ying_hiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

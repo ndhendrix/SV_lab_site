@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senbeta Guteta Abdisa | Verguet Lab at Harvard</title>
+    <link>/author/senbeta-guteta-abdisa/</link>
+      <atom:link href="/author/senbeta-guteta-abdisa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Senbeta Guteta Abdisa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Senbeta Guteta Abdisa</title>
+      <link>/author/senbeta-guteta-abdisa/</link>
+    </image>
+    
+    <item>
+      <title>Out-of-pocket expenditures for prevention and treatment of cardiovascular disease in general and specialised cardiac hospitals in Addis Ababa, Ethiopia: a cross-sectional cohort study</title>
+      <link>/publication/2017_tolla_cardiovascular_oop/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_tolla_cardiovascular_oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention and treatment of cardiovascular disease in Ethiopia: a cost-effectiveness analysis</title>
+      <link>/publication/2016_tolla_cardiovascular/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_tolla_cardiovascular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

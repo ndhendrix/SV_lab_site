@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy R Rebbeck | Verguet Lab at Harvard</title>
+    <link>/author/timothy-r-rebbeck/</link>
+      <atom:link href="/author/timothy-r-rebbeck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timothy R Rebbeck</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Timothy R Rebbeck</title>
+      <link>/author/timothy-r-rebbeck/</link>
+    </image>
+    
+    <item>
+      <title>Estimates of Cancer Incidence in Ethiopia in 2015 Using Population-Based Registry Data </title>
+      <link>/publication/2018_memirie_cancer/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_memirie_cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

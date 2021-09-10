@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infectious Diseases | Verguet Lab at Harvard</title>
+    <link>/tag/infectious-diseases/</link>
+      <atom:link href="/tag/infectious-diseases/index.xml" rel="self" type="application/rss+xml" />
+    <description>Infectious Diseases</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Infectious Diseases</title>
+      <link>/tag/infectious-diseases/</link>
+    </image>
+    
+    <item>
+      <title>Introduction of birth dose of hepatitis B virus vaccine to the immunization program in Ethiopia: an economic evaluation</title>
+      <link>/publication/2020_memirie_hbv/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_memirie_hbv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial burden of HIV and TB among patients in Ethiopia: a cross-sectional survey</title>
+      <link>/publication/2020_assebe_hiv/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_assebe_hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Gains &amp; Financial Risk Protection Afforded by Public Financing of Selected Malaria Interventions in Ethiopia: An ECEA</title>
+      <link>/publication/2020_assebe_health_gains/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_assebe_health_gains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial distribution and characteristics of HIV clusters in Ethiopia</title>
+      <link>/publication/2019_ying_hiv/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ying_hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household expenditures on pneumonia and diarrhoea treatment in Ethiopia: a facility-based study</title>
+      <link>/publication/2017_memirie_expenditures/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_memirie_expenditures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Gains and Financial Protection from Pneumococcal Vaccination and Pneumonia Treatment in Ethiopia: Results from an Extended Cost-Effectiveness Analysis</title>
+      <link>/publication/2015_johansson_pneumovax/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_johansson_pneumovax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the health and social protection effects of measles vaccination strategies in Ethiopia: An extended cost-effectiveness analysis</title>
+      <link>/publication/2015_driessen_measles/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_driessen_measles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the health and social protection effects of measles vaccination strategies in Ethiopia: An extended cost-effectiveness analysis</title>
+      <link>/publication/2015_pecenka_prevention/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_pecenka_prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health gains and financial risk protection afforded by public financing of selected interventions in Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/2015_verguet_public_financing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_verguet_public_financing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

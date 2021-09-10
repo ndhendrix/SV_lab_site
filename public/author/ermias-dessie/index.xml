@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ermias Dessie | Verguet Lab at Harvard</title>
+    <link>/author/ermias-dessie/</link>
+      <atom:link href="/author/ermias-dessie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ermias Dessie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Ermias Dessie</title>
+      <link>/author/ermias-dessie/</link>
+    </image>
+    
+    <item>
+      <title>The burden of household out-of-pocket health expenditures in Ethiopia: estimates from a nationally representative survey (2015–16)</title>
+      <link>/publication/2020_kiros_oop/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_kiros_oop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

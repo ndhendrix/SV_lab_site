@@ -35,7 +35,7 @@
 #   icon_pack: fab
 #   link: https://github.com/ndhendrix
 superuser: true
-title: Getachew Teshome
+title: Hailu Dhufera
 user_groups:
 - DCP-E
 ---

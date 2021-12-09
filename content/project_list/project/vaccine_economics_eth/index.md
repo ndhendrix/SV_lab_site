@@ -1,6 +1,6 @@
 ---
 date: "2021-05-17T00:00:00Z"
-external_link: ""
+external_link: "../vaccine_economics_ethiopia"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart

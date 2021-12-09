@@ -4,28 +4,19 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 15
 
-title:
+title: DCP-E Links
 subtitle:
 
 design:
   columns: "1"
-  background:
-    image: IMG_2641.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
 ---
+
+{{< icon name="link" pack="fas" >}}{{< staticref "https://production-chds.s3.amazonaws.com/static/filer_public/5a/a0/5aa06f88-90b1-4f69-beb8-82c4435acaba/2020_chds_dcp-ethiopia_rp.pdf" "newtab" >}}CHDS Resource Pack{{< /staticref >}}<br>

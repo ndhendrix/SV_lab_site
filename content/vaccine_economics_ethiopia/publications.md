@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 active: true
 
 title: Recent Publications
@@ -24,7 +24,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'Decision Sciences Ethiopia'
+    tag: 'Vaccine Economics Ethiopia'
     category: ''
     publication_type: ''
     author: ''

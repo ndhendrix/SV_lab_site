@@ -6,15 +6,15 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Decision Sciences Ethiopia"
+title: "Vaccine Economics Ethiopia"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: IMG_2634.JPG
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
 advanced:
   css_style:
   css_class:
 ---
 
-This resource pack was developed by Dr. Stéphane Verguet at the Center for Health Decision Science. The Disease Control Priorities-Ethiopia (DCP-E) project, sponsored by the Bill & Melinda Gates Foundation, brings evidence and methods of priority setting and health economics closer to policy decision-making in Ethiopia.
+The Vaccine Economics Ethiopia project, sponsored by Gavi, is focused on estimating the equity and poverty reduction benefits of vaccines in Ethiopia. The project also works to build local capacity to conduct economic evaluations of health interventions to inform decision makers when priority setting for health.

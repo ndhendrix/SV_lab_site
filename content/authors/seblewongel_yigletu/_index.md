@@ -38,5 +38,6 @@ superuser: false
 title: Seblewongel Yigletu
 user_groups:
 - DCP-E
+- Vaccine Economics Ethiopia
 ---
 

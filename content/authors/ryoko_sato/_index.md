@@ -1,41 +1,42 @@
 ---
-# bio: Assistant Professor in the Department of Global Health & Population at Harvard University's T.H. Chan School of Public Health
+bio: Research Scientist, Harvard T.H. Chan School of Public Health
 # education:
 #   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-# email: ""
+#   - course: 
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
+email: "rsata@hsph.harvard.edu"
 # highlight_name: false
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+# - Interest 1
+# - Interest 2
+# - Interest 3
 organizations:
-- name: Harvard University
-  url: ""
+- name: Center for Health Decision Science, Harvard T.H. Chan School of Public Health
+  url: "https://chds.hsph.harvard.edu/"
 role: Research Scientist
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:nhendrix@hsph.harvard.edu
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:rsato@hsph.harvard.edu
 # - icon: twitter
 #   icon_pack: fab
-#   link: https://twitter.com/ndhendrix
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=NyAlSYG7NeAC&hl=en
+#   link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=y07wUQkAAAAJ&hl=en&oi=ao
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/ndhendrix
-superuser: true
+#   link: 
+superuser: false
 title: Ryoko Sato
 user_groups:
-- Research Scientists
+- Research Team
+- Vaccine Economics Ethiopia
 ---

@@ -1,25 +1,26 @@
 ---
-# bio: Assistant Professor in the Department of Global Health & Population at Harvard University's T.H. Chan School of Public Health
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-# email: ""
+bio: Postdoctoral Research Fellow, Harvard T.H. Chan School of Public Health
+education:
+  courses:
+   - course: PhD in Pharmaceutical Outcomes Research and Policy
+     institution: University of Washington
+     year: 2020
+   - course: PharmD
+     institution: University of Washington
+     year: 2015
+#   - course: 
+#     institution: 
+#     year: 
+email: "nhendrix@hsph.harvard.edu"
 # highlight_name: false
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Health economics
+- Cost-effectiveness methods
+- Cancer screening
+- Artificial intelligence
 organizations:
-- name: Harvard University
-  url: ""
+- name: Department of Global Health and Population, Harvard T.H. Chan School of Public Health
+  url: "https://www.hsph.harvard.edu/global-health-and-population/"
 role: Postdoctoral Research Fellow
 social:
 - icon: envelope
@@ -37,7 +38,7 @@ social:
 superuser: true
 title: Nathaniel Hendrix
 user_groups:
-- Postdoctoral Fellows
+- Research Team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nathaniel Hendrix is a postdoctoral research fellow in the Department of Global Health & Population at the Harvard T.H. Chan School of Public Health. His research interests include integrating equity into cost-effectiveness analysis, personalizing cancer screening through risk-stratification, and using the tools of health economics to solve translational issues around clinical artificial intelligence.

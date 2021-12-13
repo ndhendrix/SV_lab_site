@@ -1,41 +1,41 @@
 ---
-# bio: Assistant Professor in the Department of Global Health & Population at Harvard University's T.H. Chan School of Public Health
+bio: Postdoctoral Research Fellow, Harvard T.H. Chan School of Public Health
 # education:
 #   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-# email: ""
+#   - course: 
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
+email: "dvillano@hsph.harvard.edu"
 # highlight_name: false
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+# - Interest 1
+# - Interest 2
+# - Interest 3
 organizations:
-- name: Harvard University
-  url: ""
+- name: Department of Global Health and Population, Harvard T.H. Chan School of Public Health
+  url: "https://www.hsph.harvard.edu/global-health-and-population/"
 role: Postdoctoral Research Fellow
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:nhendrix@hsph.harvard.edu
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:dvillano@hsph.harvard.edu
 # - icon: twitter
 #   icon_pack: fab
-#   link: https://twitter.com/ndhendrix
+#   link: 
 # - icon: google-scholar
 #   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=NyAlSYG7NeAC&hl=en
+#   link: https://scholar.google.com/citations?user=Qqj5-ngAAAAJ&hl=en&oi=ao
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/ndhendrix
-superuser: true
+#   link: 
+superuser: false
 title: Dominick Villano
 user_groups:
-- Postdoctoral Fellows
+- Research Team
 ---

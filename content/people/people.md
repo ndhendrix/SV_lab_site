@@ -2,11 +2,7 @@
 content:
   user_groups:
   - Principal Investigator
-  - Postdoctoral Fellows
-  - Research Scientists
-  - Graduate Students
-  - Visitors
-  - Lab Alumni
+  - Research Team
 design:
   show_interests: false
   show_role: true
@@ -17,3 +13,6 @@ title: Meet the Team
 weight: 68
 widget: people
 ---
+
+The Verguet Lab's core research team is based in Boston, MA  
+at the Harvard T.H. Chan School of Public Health.

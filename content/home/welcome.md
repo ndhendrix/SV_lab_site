@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Verguet Lab at Harvard"
+title: "Verguet Lab"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: IMG_2637.JPG
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Verguet Lab takes a multidisciplinary approach to health decision science and priority setting, particularly in the development of mathematical and computational decision-making models to better design health policies. Our work spans health economics, cost-effectiveness analysis, equity, and health systems performance. 
+At the Verguet Lab we take a multidisciplinary approach to health decision science and priority setting. We are particularly focused on the development of mathematical and computational decision-making models to better design health policies. Our work spans health economics, cost-effectiveness analysis, equity, and health systems performance. 

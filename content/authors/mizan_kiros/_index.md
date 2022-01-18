@@ -38,6 +38,7 @@ superuser: false
 title: Mizan Kiros
 user_groups:
 - DCP-E
+weight: 6
 ---
 
 

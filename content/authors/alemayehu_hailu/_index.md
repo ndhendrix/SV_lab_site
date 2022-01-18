@@ -38,6 +38,7 @@ superuser: false
 title: Alemayehu Hailu
 user_groups:
 - DCP-E
+weight: 4
 ---
 
 

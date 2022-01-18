@@ -38,6 +38,7 @@ superuser: true
 title: Hailu Dhufera
 user_groups:
 - DCP-E
+weight: 3
 ---
 
 

@@ -38,6 +38,7 @@ superuser: false
 title: Wondesen Nigata
 user_groups:
 - DCP-E
+weight: 8
 ---
 
 

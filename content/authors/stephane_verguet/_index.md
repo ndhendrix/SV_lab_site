@@ -1,5 +1,5 @@
 ---
-bio: Assistant Professor in the Department of Global Health & Population at Harvard University's T.H. Chan School of Public Health
+bio: Associate Professor in the Department of Global Health & Population at Harvard University's T.H. Chan School of Public Health
 education:
   courses:
   - course: PhD in Mechanical Engineering
@@ -19,7 +19,7 @@ education:
 organizations:
 - name: Harvard University
   url: ""
-role: Assistant Professor in Global Health & Population
+#role: Associate Professor in Global Health & Population
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,6 +39,7 @@ user_groups:
 - Principal Investigator
 - DCP-E
 - Vaccine Economics Ethiopia
+weight: 13
 ---
 
-Stéphane Verguet is Assistant Professor of Global Health at the Harvard T.H. Chan School of Public Health. Dr. Verguet’s multidisciplinary research focuses on health decision science and priority setting, particularly the development of mathematical and computational decision-making models to better design health policies. His research interests include health economics, cost-effectiveness analysis, equity, and health systems performance. Most recently, he has been working on the estimation of non-health benefits, particularly the poverty alleviation benefits, of health policies and interventions.
+Stéphane Verguet is Associate Professor of Global Health at the Harvard T.H. Chan School of Public Health. Dr. Verguet’s multidisciplinary research focuses on health decision science and priority setting, particularly the development of mathematical and computational decision-making models to better design health policies. His research interests include health economics, cost-effectiveness analysis, equity, and health systems performance. Most recently, he has been working on the estimation of non-health benefits, particularly the poverty alleviation benefits, of health policies and interventions.

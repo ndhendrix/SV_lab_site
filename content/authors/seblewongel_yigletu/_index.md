@@ -39,5 +39,6 @@ title: Seblewongel Yigletu
 user_groups:
 - DCP-E
 - Vaccine Economics Ethiopia
+weight: 14
 ---
 

@@ -38,6 +38,7 @@ title: Solomon Tessema Memirie
 user_groups:
 - DCP-E
 - Vaccine Economics Ethiopia
+weight: 7
 ---
 
 

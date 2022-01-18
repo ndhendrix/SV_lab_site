@@ -20,7 +20,7 @@ email: "rsata@hsph.harvard.edu"
 organizations:
 - name: Center for Health Decision Science, Harvard T.H. Chan School of Public Health
   url: "https://chds.hsph.harvard.edu/"
-role: Research Scientist
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas

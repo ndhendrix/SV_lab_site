@@ -38,4 +38,5 @@ superuser: false
 title: Lelisa Fekadu Assebe
 user_groups:
 - DCP-E
+weight: 1
 ---

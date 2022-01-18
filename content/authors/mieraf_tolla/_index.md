@@ -38,4 +38,5 @@ superuser: false
 title: Mieraf Taddesse Tolla
 user_groups:
 - DCP-E
+weight: 12
 ---

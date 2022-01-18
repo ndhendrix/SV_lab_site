@@ -38,6 +38,7 @@ superuser: false
 title: Ole Frithjof Norheim
 user_groups:
 - DCP-E
+weight: 9
 ---
 
 

@@ -38,6 +38,7 @@ superuser: false
 title: Kjell Arne Johansson
 user_groups:
 - DCP-E
+weight: 5
 ---
 
 

@@ -7,8 +7,8 @@ authors:
 - Kassahun Amenu
 - Senbeta Guteta Abdisa
 - kjell_arne_johansson
-date: '2017-//-01T00:00:00Z'
-publishDate: '2017-//-01T00:00:00Z'
+date: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 doi: '10.1136/bmjgh-2016-000280'
 url_pdf: 'https://doi.org/10.1136/bmjgh-2016-000280'
 publication: '*BMJ Global Health, 2*(2)'

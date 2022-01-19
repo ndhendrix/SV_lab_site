@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shallo Daba Hamusse | Verguet Lab</title>
+    <link>/author/shallo-daba-hamusse/</link>
+      <atom:link href="/author/shallo-daba-hamusse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shallo Daba Hamusse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Shallo Daba Hamusse</title>
+      <link>/author/shallo-daba-hamusse/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effectiveness of facility-based, stand-alone and mobile-based voluntary counseling and testing for HIV in Addis Ababa, Ethiopia</title>
+      <link>/publication/yigezu_cost_cost-effectiveness_2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yigezu_cost_cost-effectiveness_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

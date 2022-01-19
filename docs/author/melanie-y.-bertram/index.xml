@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melanie Y. Bertram | Verguet Lab</title>
+    <link>/author/melanie-y.-bertram/</link>
+      <atom:link href="/author/melanie-y.-bertram/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melanie Y. Bertram</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Melanie Y. Bertram</title>
+      <link>/author/melanie-y.-bertram/</link>
+    </image>
+    
+    <item>
+      <title>Contextualization of cost-effectiveness evidence from literature for 382 health interventions for the Ethiopian essential health services package revision</title>
+      <link>/publication/hailu_cost_contextualization_2021/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hailu_cost_contextualization_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalised cost-effectiveness analysis of 159 health interventions for the Ethiopian essential health service package</title>
+      <link>/publication/eregata_cost_generalised_2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/eregata_cost_generalised_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revision of the Ethiopian Essential Health Service Package: An Explication of the Process and Methods Used</title>
+      <link>/publication/eregata_health_revision_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eregata_health_revision_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

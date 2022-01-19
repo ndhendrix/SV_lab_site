@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawit N. Desalegn | Verguet Lab</title>
+    <link>/author/dawit-n.-desalegn/</link>
+      <atom:link href="/author/dawit-n.-desalegn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dawit N. Desalegn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Dawit N. Desalegn</title>
+      <link>/author/dawit-n.-desalegn/</link>
+    </image>
+    
+    <item>
+      <title>Modelling hospital operations: insight from using data from paper registries in the obstetrics ward at a hospital in Addis Ababa, Ethiopia</title>
+      <link>/publication/bigelow_bmj_modelling_2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bigelow_bmj_modelling_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

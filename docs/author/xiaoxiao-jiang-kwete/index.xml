@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoxiao Jiang Kwete | Verguet Lab</title>
+    <link>/author/xiaoxiao-jiang-kwete/</link>
+      <atom:link href="/author/xiaoxiao-jiang-kwete/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoxiao Jiang Kwete</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoxiao Jiang Kwete</title>
+      <link>/author/xiaoxiao-jiang-kwete/</link>
+    </image>
+    
+    <item>
+      <title>Avoiding premature mortality in Ethiopia 2015–30: a review of national mortality trends and policy recommendations</title>
+      <link>/publication/woldemariam__avoiding_/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/woldemariam__avoiding_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health gains and financial risk protection afforded by public financing of selected malaria interventions in Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/assebe_malaria_health_2020/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/assebe_malaria_health_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

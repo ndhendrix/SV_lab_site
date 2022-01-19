@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helath and Medicine | Verguet Lab</title>
+    <link>/tag/helath-and-medicine/</link>
+      <atom:link href="/tag/helath-and-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helath and Medicine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Tue, 29 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Helath and Medicine</title>
+      <link>/tag/helath-and-medicine/</link>
+    </image>
+    
+    <item>
+      <title>Task-sharing or public finance for the expansion of surgical access in rural Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/2015_shrime_surgery/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_shrime_surgery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

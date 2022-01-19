@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damen Hailemariam | Verguet Lab</title>
+    <link>/author/damen-hailemariam/</link>
+      <atom:link href="/author/damen-hailemariam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Damen Hailemariam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Damen Hailemariam</title>
+      <link>/author/damen-hailemariam/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effectiveness of facility-based, stand-alone and mobile-based voluntary counseling and testing for HIV in Addis Ababa, Ethiopia</title>
+      <link>/publication/yigezu_cost_cost-effectiveness_2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yigezu_cost_cost-effectiveness_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness of treating multidrug-resistant tuberculosis in treatment initiative centers and treatment follow-up centers in Ethiopia</title>
+      <link>/publication/alemayehu_plos_cost-effectiveness_2020/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/alemayehu_plos_cost-effectiveness_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

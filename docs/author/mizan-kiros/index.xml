@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mizan Kiros | Verguet Lab</title>
+    <link>/author/mizan-kiros/</link>
+      <atom:link href="/author/mizan-kiros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mizan Kiros</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/mizan-kiros/avatar_hu361d75cc8a31b9594647ff6bde661286_3051_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mizan Kiros</title>
+      <link>/author/mizan-kiros/</link>
+    </image>
+    
+    <item>
+      <title>Examining the density in out-of-pocket spending share in the estimation of catastrophic health expenditures</title>
+      <link>/publication/jbaily_european_examining_2021/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jbaily_european_examining_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethiopian healthcare workers’ experiences during the COVID-19 pandemic</title>
+      <link>/publication/chakrabarti_pending_ethiopian_/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chakrabarti_pending_ethiopian_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the potential health and financial benefits of increasing tobacco taxes in Ethiopia: a distributional impact analysis</title>
+      <link>/publication/chakrabarti_social_modelling_/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chakrabarti_social_modelling_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The burden of household out-of-pocket health expenditures in Ethiopia: estimates from a nationally representative survey (2015–16)</title>
+      <link>/publication/kiros_health_the_2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kiros_health_the_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward health system strengthening in low- and middle-income countries: insights from mathematical modeling of drug supply chains</title>
+      <link>/publication/jbaily_bmc_toward_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbaily_bmc_toward_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

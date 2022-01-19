@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gemu Tiru | Verguet Lab</title>
+    <link>/author/gemu-tiru/</link>
+      <atom:link href="/author/gemu-tiru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gemu Tiru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Gemu Tiru</title>
+      <link>/author/gemu-tiru/</link>
+    </image>
+    
+    <item>
+      <title>The financial risks of care-seeking for malaria by rural households in Jimma Zone, Oromia Region, southwest Ethiopia: A cross-sectional study</title>
+      <link>/publication/assebe_bmj_the_/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/assebe_bmj_the_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

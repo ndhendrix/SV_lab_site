@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematical Models | Verguet Lab</title>
+    <link>/tag/mathematical-models/</link>
+      <atom:link href="/tag/mathematical-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematical Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Mathematical Models</title>
+      <link>/tag/mathematical-models/</link>
+    </image>
+    
+    <item>
+      <title>Spatial distribution and characteristics of HIV clusters in Ethiopia</title>
+      <link>/publication/2019_ying_hiv/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ying_hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health gains and financial risk protection afforded by public financing of selected interventions in Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/2015_verguet_public_financing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_verguet_public_financing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

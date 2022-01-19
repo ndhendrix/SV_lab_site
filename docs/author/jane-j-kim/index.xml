@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane J Kim | Verguet Lab</title>
+    <link>/author/jane-j-kim/</link>
+      <atom:link href="/author/jane-j-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jane J Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Jane J Kim</title>
+      <link>/author/jane-j-kim/</link>
+    </image>
+    
+    <item>
+      <title>Health gains and financial protection from human papillomavirus vaccination in Ethiopia: findings from a modelling study</title>
+      <link>/publication/portnoy_health_health_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/portnoy_health_health_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

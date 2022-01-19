@@ -1,0 +1,799 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Hailu Dhufera" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The Verguet Lab takes a multidisciplinary approach to health decision science and priority setting, particularly in the development of mathematical and computational decision-making models to better design health policies." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/tag/cost-effectiveness-analysis/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#707070" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.81d39e5a4f073b61dadaf046e5769cc5.css" />
+
+  
+
+
+
+  
+
+  
+
+
+  
+  
+  
+
+  
+    <link rel="alternate" href="/tag/cost-effectiveness-analysis/index.xml" type="application/rss+xml" title="Verguet Lab" />
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="/tag/cost-effectiveness-analysis/" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Verguet Lab" />
+  <meta property="og:url" content="/tag/cost-effectiveness-analysis/" />
+  <meta property="og:title" content="Cost-Effectiveness Analysis | Verguet Lab" />
+  <meta property="og:description" content="The Verguet Lab takes a multidisciplinary approach to health decision science and priority setting, particularly in the development of mathematical and computational decision-making models to better design health policies." /><meta property="og:image" content="/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2020-06-01T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <title>Cost-Effectiveness Analysis | Verguet Lab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fe45d6728db14afe1de00706bcb9d7c3.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Verguet Lab</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Verguet Lab</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/project_list"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+        
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Cost-Effectiveness Analysis</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+
+  
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2020_assebe_hiv/" >Financial burden of HIV and TB among patients in Ethiopia: a cross-sectional survey</a></h2>
+      <div class="article-style">
+        
+          This article, published in BMJ Open, aims to estimate the household economic burden and incidence of catastrophic health expenditures (CHE) incurred as a result of HIV and TB care across income quintiles in Ethiopia. The economic burden of HIV and TB care is estimated looking at direct and indirect costs, whereas the incidence of CHE is determined using direct costs that exceed 10% of the household income threshold. HIV and TB are found to cause substantial economic burden and CHE, inequitably affecting those in the poorest income quintile. Broadening health policies to encompass interventions that reduce the high cost of HIV and TB care, particularly for the poor, is urgently needed.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2015_shrime_surgery/" >Task-sharing or public finance for the expansion of surgical access in rural Ethiopia: an extended cost-effectiveness analysis</a></h2>
+      <div class="article-style">
+        
+          This article, published in Health Policy and Planning, utilizes an extended cost effectiveness analysis (ECEA) to examine how policies to expand access to surgery in rural Ethiopia would impact health, impoverishment, and equity. The study finds that health benefits, financial risk protection, and equity appear to be in tension in the expansion of access to surgical care. Health benefits from each of the examined policies accrue primarily among the poor, but without travel vouchers, many policies also induce impoverishment among the poor while providing financial risk protection to the rich. These findings call into question the equitable distribution of benefits by these policies.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2015_johansson_pneumovax/" >Health Gains and Financial Protection from Pneumococcal Vaccination and Pneumonia Treatment in Ethiopia: Results from an Extended Cost-Effectiveness Analysis</a></h2>
+      <div class="article-style">
+        
+          This article, published in PLOS ONE, conducts an extended cost-effectiveness analysis (ECEA) of two fully publicly financed interventions in Ethiopia: pneumococcal vaccination for newborns and pneumonia treatment for under-five children. The authors apply ECEA methods and estimate the program impact on: (1) government program costs; (2) pneumonia and pneumococcal deaths averted; (3) household expenses related to pneumonia/pneumococcal disease treatment averted; (4) prevention of household medical impoverishment; and (5) distributional consequences across the wealth strata of the population. The results indicate that vaccine and treatment interventions for children can bring large health and financial benefits to households in Ethiopia, most particularly among the poorest socio-economic groups.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2015_pecenka_prevention/" >Comparing the health and social protection effects of measles vaccination strategies in Ethiopia: An extended cost-effectiveness analysis</a></h2>
+      <div class="article-style">
+        
+          This article, published in BMJ Open, aims to illustrate the size and distribution of benefits due to the treatment and prevention of diarrhoea (i.e., rotavirus vaccination) in Ethiopia. The authors use an economic model to examine the impacts of universal public finance (UPF) of diarrhoeal treatment alone, as opposed to diarrhoeal treatment along with rotavirus vaccination using extended cost-effectiveness analysis (ECEA). The study finds that diarrhoeal treatment paired with rotavirus vaccination is more cost effective than diarrhoeal treatment alone for the examined metrics (deaths and private expenditures averted). Policymakers should consider multiple benefit streams as well as their scale and incidence when considering public financing of health interventions.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2015_verguet_public_financing/" >Health gains and financial risk protection afforded by public financing of selected interventions in Ethiopia: an extended cost-effectiveness analysis</a></h2>
+      <div class="article-style">
+        
+          This article, published in the Lancet Global Health, aims to evaluate the health and financial risk protection benefits of selected interventions that could be publicly financed by the government of Ethiopia. The authors used an extended cost-effectiveness analysis (ECEA) to assess the health gains (deaths averted) and financial risk protection afforded (cases of poverty averted) by a bundle of nine interventions that the Government of Ethiopia aims to make universally available. This approach incorporates financial risk protection into the economic evaluation of health interventions and therefore provides information about the efficiency of attainment of both major objectives of a health system: improved health and financial risk protection. It is especially relevant for the design and sequencing of universal health coverage to meet the needs of poor populations.
+        
+      </div>
+    </div>
+  
+
+  
+
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Verguet Lab
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.f8467c1d3e2740d8f3195894a328004e.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.46b3f418ef5cd01a39ca402883db7227.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

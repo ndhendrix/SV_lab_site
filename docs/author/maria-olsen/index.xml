@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Olsen | Verguet Lab</title>
+    <link>/author/maria-olsen/</link>
+      <atom:link href="/author/maria-olsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Olsen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Maria Olsen</title>
+      <link>/author/maria-olsen/</link>
+    </image>
+    
+    <item>
+      <title>Reducing regional health inequality: a sub-national distributional cost-effectiveness analysis of community-based treatment of childhood pneumonia in Ethiopia</title>
+      <link>/publication/olsen_international_reducing_2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/olsen_international_reducing_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

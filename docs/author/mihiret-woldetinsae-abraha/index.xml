@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihiret Woldetinsae Abraha | Verguet Lab</title>
+    <link>/author/mihiret-woldetinsae-abraha/</link>
+      <atom:link href="/author/mihiret-woldetinsae-abraha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mihiret Woldetinsae Abraha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Mihiret Woldetinsae Abraha</title>
+      <link>/author/mihiret-woldetinsae-abraha/</link>
+    </image>
+    
+    <item>
+      <title>Estimates of Cancer Incidence in Ethiopia in 2015 Using Population-Based Registry Data </title>
+      <link>/publication/2018_memirie_cancer/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_memirie_cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

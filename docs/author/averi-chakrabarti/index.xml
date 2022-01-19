@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Averi Chakrabarti | Verguet Lab</title>
+    <link>/author/averi-chakrabarti/</link>
+      <atom:link href="/author/averi-chakrabarti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Averi Chakrabarti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Averi Chakrabarti</title>
+      <link>/author/averi-chakrabarti/</link>
+    </image>
+    
+    <item>
+      <title>The financial risks of care-seeking for malaria by rural households in Jimma Zone, Oromia Region, southwest Ethiopia: A cross-sectional study</title>
+      <link>/publication/assebe_bmj_the_/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/assebe_bmj_the_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethiopian healthcare workers’ experiences during the COVID-19 pandemic</title>
+      <link>/publication/chakrabarti_pending_ethiopian_/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chakrabarti_pending_ethiopian_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the potential health and financial benefits of increasing tobacco taxes in Ethiopia: a distributional impact analysis</title>
+      <link>/publication/chakrabarti_social_modelling_/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chakrabarti_social_modelling_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

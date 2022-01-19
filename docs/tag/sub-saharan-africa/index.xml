@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sub-Saharan Africa | Verguet Lab</title>
+    <link>/tag/sub-saharan-africa/</link>
+      <atom:link href="/tag/sub-saharan-africa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sub-Saharan Africa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Sub-Saharan Africa</title>
+      <link>/tag/sub-saharan-africa/</link>
+    </image>
+    
+    <item>
+      <title>Financial burden of HIV and TB among patients in Ethiopia: a cross-sectional survey</title>
+      <link>/publication/2020_assebe_hiv/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_assebe_hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial distribution and characteristics of HIV clusters in Ethiopia</title>
+      <link>/publication/2019_ying_hiv/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ying_hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimates of Cancer Incidence in Ethiopia in 2015 Using Population-Based Registry Data </title>
+      <link>/publication/2018_memirie_cancer/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_memirie_cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household expenditures on pneumonia and diarrhoea treatment in Ethiopia: a facility-based study</title>
+      <link>/publication/2017_memirie_expenditures/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_memirie_expenditures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the burden of medical impoverishment by cause: a systematic breakdown by disease in Ethiopia</title>
+      <link>/publication/2016_verguet_impoverishment/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_verguet_impoverishment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequalities in utilization of maternal and child health services in Ethiopia: the role of primary health care</title>
+      <link>/publication/2016_memirie_maternal/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_memirie_maternal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-sharing or public finance for the expansion of surgical access in rural Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/2015_shrime_surgery/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_shrime_surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the health and social protection effects of measles vaccination strategies in Ethiopia: An extended cost-effectiveness analysis</title>
+      <link>/publication/2015_pecenka_prevention/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_pecenka_prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health gains and financial risk protection afforded by public financing of selected interventions in Ethiopia: an extended cost-effectiveness analysis</title>
+      <link>/publication/2015_verguet_public_financing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_verguet_public_financing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

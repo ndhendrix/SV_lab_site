@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Determinants | Verguet Lab</title>
+    <link>/tag/social-determinants/</link>
+      <atom:link href="/tag/social-determinants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Determinants</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Social Determinants</title>
+      <link>/tag/social-determinants/</link>
+    </image>
+    
+    <item>
+      <title>Health Gains and Financial Protection from Pneumococcal Vaccination and Pneumonia Treatment in Ethiopia: Results from an Extended Cost-Effectiveness Analysis</title>
+      <link>/publication/2015_johansson_pneumovax/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_johansson_pneumovax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the health and social protection effects of measles vaccination strategies in Ethiopia: An extended cost-effectiveness analysis</title>
+      <link>/publication/2015_pecenka_prevention/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_pecenka_prevention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

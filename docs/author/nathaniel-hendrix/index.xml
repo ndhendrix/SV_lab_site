@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathaniel Hendrix | Verguet Lab</title>
+    <link>/author/nathaniel-hendrix/</link>
+      <atom:link href="/author/nathaniel-hendrix/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathaniel Hendrix</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/nathaniel-hendrix/avatar_hudd9faf2349ad1e2a41ee6d4ff0cd5ee5_14453_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nathaniel Hendrix</title>
+      <link>/author/nathaniel-hendrix/</link>
+    </image>
+    
+    <item>
+      <title>The financial risks of care-seeking for malaria by rural households in Jimma Zone, Oromia Region, southwest Ethiopia: A cross-sectional study</title>
+      <link>/publication/assebe_bmj_the_/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/assebe_bmj_the_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

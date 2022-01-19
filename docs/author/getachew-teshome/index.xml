@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getachew Teshome | Verguet Lab</title>
+    <link>/author/getachew-teshome/</link>
+      <atom:link href="/author/getachew-teshome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Getachew Teshome</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/getachew-teshome/avatar_hu37261a33d32cebd26c4a7238cac5c24b_23343_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Getachew Teshome</title>
+      <link>/author/getachew-teshome/</link>
+    </image>
+    
+    <item>
+      <title>Contextualization of cost-effectiveness evidence from literature for 382 health interventions for the Ethiopian essential health services package revision</title>
+      <link>/publication/hailu_cost_contextualization_2021/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hailu_cost_contextualization_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward universal health coverage in the post-COVID-19 era</title>
+      <link>/publication/verguet_nature_toward_2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/verguet_nature_toward_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalised cost-effectiveness analysis of 159 health interventions for the Ethiopian essential health service package</title>
+      <link>/publication/eregata_cost_generalised_2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/eregata_cost_generalised_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Universal Health Coverage Affordable? Estimated Costs and Fiscal Space Analysis for the Ethiopian Essential Health Services Package</title>
+      <link>/publication/hailu_health_is_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hailu_health_is_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revision of the Ethiopian Essential Health Service Package: An Explication of the Process and Methods Used</title>
+      <link>/publication/eregata_health_revision_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eregata_health_revision_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness of facility-based, stand-alone and mobile-based voluntary counseling and testing for HIV in Addis Ababa, Ethiopia</title>
+      <link>/publication/yigezu_cost_cost-effectiveness_2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yigezu_cost_cost-effectiveness_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

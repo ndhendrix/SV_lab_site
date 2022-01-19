@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trygve Ottersen | Verguet Lab</title>
+    <link>/author/trygve-ottersen/</link>
+      <atom:link href="/author/trygve-ottersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trygve Ottersen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Trygve Ottersen</title>
+      <link>/author/trygve-ottersen/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating Distributional Concerns into Practical Tools for Priority-Setting</title>
+      <link>/publication/norheim_global_incorporating_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/norheim_global_incorporating_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

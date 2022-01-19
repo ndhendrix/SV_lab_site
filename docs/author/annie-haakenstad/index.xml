@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annie Haakenstad | Verguet Lab</title>
+    <link>/author/annie-haakenstad/</link>
+      <atom:link href="/author/annie-haakenstad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annie Haakenstad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Annie Haakenstad</title>
+      <link>/author/annie-haakenstad/</link>
+    </image>
+    
+    <item>
+      <title>Examining the density in out-of-pocket spending share in the estimation of catastrophic health expenditures</title>
+      <link>/publication/jbaily_european_examining_2021/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jbaily_european_examining_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

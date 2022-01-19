@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabelle Feldhaus | Verguet Lab</title>
+    <link>/author/isabelle-feldhaus/</link>
+      <atom:link href="/author/isabelle-feldhaus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabelle Feldhaus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Isabelle Feldhaus</title>
+      <link>/author/isabelle-feldhaus/</link>
+    </image>
+    
+    <item>
+      <title>Toward health system strengthening in low- and middle-income countries: insights from mathematical modeling of drug supply chains</title>
+      <link>/publication/jbaily_bmc_toward_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbaily_bmc_toward_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getachew Teshome Eregata | Verguet Lab</title>
+    <link>/author/getachew-teshome-eregata/</link>
+      <atom:link href="/author/getachew-teshome-eregata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Getachew Teshome Eregata</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Getachew Teshome Eregata</title>
+      <link>/author/getachew-teshome-eregata/</link>
+    </image>
+    
+    <item>
+      <title>Measuring progress towards universal health coverage: national and subnational analysis in Ethiopia</title>
+      <link>/publication/eregata_bmj_measuring_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/eregata_bmj_measuring_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

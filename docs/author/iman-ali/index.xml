@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iman Ali | Verguet Lab</title>
+    <link>/author/iman-ali/</link>
+      <atom:link href="/author/iman-ali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iman Ali</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright>
+    <image>
+      <url>/author/iman-ali/avatar_hua136832cdf5fba5db41ab9efb70847a5_159872_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Iman Ali</title>
+      <link>/author/iman-ali/</link>
+    </image>
+    
+  </channel>
+</rss>

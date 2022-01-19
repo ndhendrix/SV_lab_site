@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kirsten Strand | Verguet Lab</title>
+    <link>/author/kirsten-strand/</link>
+      <atom:link href="/author/kirsten-strand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kirsten Strand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Verguet Lab</copyright><lastBuildDate>Fri, 12 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1ba04045df1863235b672af4baeeac9e_43027_512x512_fill_lanczos_center_2.png</url>
+      <title>Kirsten Strand</title>
+      <link>/author/kirsten-strand/</link>
+    </image>
+    
+    <item>
+      <title>Prevention and treatment of cardiovascular disease in Ethiopia: a cost-effectiveness analysis</title>
+      <link>/publication/tolla_cost_prevention_2016/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tolla_cost_prevention_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

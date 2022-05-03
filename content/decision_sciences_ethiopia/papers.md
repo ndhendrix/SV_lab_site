@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: "media/lalibella.jpg"
+    image: "lalibella.jpg"
     image_darken: 0.5
     image_parallax: true
     image_position: center
